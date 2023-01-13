@@ -1,0 +1,55 @@
+
+thead, tbody {
+    text-align: center;
+}
+#t_header {
+    background-color: steelblue;
+    color: #FFFFFF;
+}
+.ui.table th.t_number {
+    background-color: lightseagreen;
+    color: #FFFFFF;
+}
+.ui.table td.stt_stb {
+    background-color: none;
+    color: #000000;
+}
+.ui.table td.stt_nor {
+    background-color: seagreen;
+    color: #FFFFFF;
+}
+.ui.table td.stt_afl {
+    background-color: mediumvioletred;
+    color: #FFFFFF;
+}
+.ui.table td.stt_rof {
+    background-color: Indigo;
+    color: #FFFFFF;
+}
+.ui.table td.stt_ecb {
+    background-color: crimson;
+    color: #FFFFFF;
+}
+.ui.table {
+    font-weight: bold;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+}
+
+.ui.button {
+    font-size: 0.78rem;
+}
+
+.ui.table tr, .ui.table th, .ui.table td {
+    width: 14.286%;
+    padding: 0.48rem;   /*  0.70rem */
+}
+
+#acl {
+    font-size: 0.7rem;
+    margin-top: 5px;
+}
+h5 {
+    margin-bottom: 5px;
+}
